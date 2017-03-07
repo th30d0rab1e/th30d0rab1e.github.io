@@ -1,0 +1,28 @@
+
+#main {
+	text-align: center;
+	margin-left: 8cm;
+	margin-right: 8cm;
+	width: 50%
+}
+
+#info{
+	float: left;
+	width: 25%;
+	position: fixed;
+	text-align: center;
+}
+#info h1 {
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	font-size: 200px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+#references{
+	float:right;
+	width: 20%;
+	position:fixed;
+	left: 80%;
+}
